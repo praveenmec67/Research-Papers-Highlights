@@ -4,4 +4,4 @@ As a Machine Learning Engineer, I have always wished that it would be better if 
 
 My area of interest and primary focus would be papers from NLP
 
-You can also find my blog for the same papers at https://medium.com/papers-i-found
+You can also find a quick summary for the same papers at https://medium.com/papers-i-found
